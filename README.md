@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBuYzZrYjN0aHNqdG5sYzluYjduODMzMnY4cDZ0ajhiMjRrN2l1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+</h1>
 
-<!--
-**faivz/faivz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Stanislav, an aspiring ML engineer from Blagoveshchensk, Amur region, Russia. Welcome.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 HTML, CSS, PHP
+- ⚙️ in future
+- 👁️ CSS
+- 💽 in future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [telegram](https://t.me/gelios_fy)
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faivz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
